@@ -9,7 +9,7 @@ To assemble the case you will need:
 
 Material: Acrylic 4mm
 
-Credits: Dmitry Silkin ([DarthCorvus](https://www.thingiverse.com/thing:1846768))
+Credits: Dmitry Silkin ([DarthCorvus](https://www.thingiverse.com/darthcorvus/designs)). The original [source files](https://www.thingiverse.com/thing:1846768).
 
 
 
