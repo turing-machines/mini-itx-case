@@ -1,7 +1,7 @@
 # Turing Pi mini ITX case
 A simple DIY mini ITX case for the [Turing Pi](https://turingpi.com)
 
-![Turing Pi case](https://github.com/turing-machines/mini-itx-case/blob/master/img/turingpi_case2.jpg)
+![Turing Pi case](https://github.com/turing-machines/mini-itx-case/blob/master/img/turingpi_case.jpg)
 
 ## To assemble the case you will need:
 1. the case parts
